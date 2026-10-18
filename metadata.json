@@ -1,0 +1,8 @@
+{
+  "name": "OmniGraph & RNG Assistant",
+  "description": "Interactive historical time-series graphing utility with smart zoom, CSV/JSON data ingestion, high-res PNG/PDF export, and an on-demand random number generator powered by a natural language AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
